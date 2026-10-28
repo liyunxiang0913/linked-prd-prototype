@@ -1,0 +1,7 @@
+interface:
+  display_name: "联动 PRD 原型工作台"
+  short_description: "从需求描述生成联动原型、PRD 与 HTML 工作台"
+  default_prompt: "使用 $linked-prd-prototype，根据下面的需求描述生成可下载的联动原型、Markdown PRD 和单文件 HTML 工作台。"
+
+policy:
+  allow_implicit_invocation: true
