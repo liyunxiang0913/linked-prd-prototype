@@ -1,4 +1,4 @@
-# Linked PRD Prototype
+# 联动 PRD 原型工作台 Linked PRD Prototype
 
 一个用于生成“左侧产品原型 + 右侧 PRD”的 Codex Skill。输入一段产品需求描述后，Skill 会生成可直接打开的 HTML 工作台，并让原型中的功能按钮与 PRD 对应章节联动。
 
